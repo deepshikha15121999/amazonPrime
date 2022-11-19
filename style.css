@@ -181,6 +181,8 @@
 }
 
 #m_button{
+    position: relative;
+    top: 50px;
     padding: 4px;
     height: 25px;
     width: 37%;
@@ -249,6 +251,8 @@
     margin-top: -10px;
 }
 #s_button {
+    position: relative;
+    top: 20px;
     height: 50px;
     width: 200px;
     background-color: blue;
